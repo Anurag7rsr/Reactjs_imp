@@ -1,0 +1,60 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+.dropdown-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.css-1hb7u6h {
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.css-1s2u09g-control {
+  border: 1px solid #ccc;
+  box-shadow: none;
+}
+
+.css-1s2u09g-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.css-1n7v3w6 {
+  padding: 0.5rem;
+}
+
+.css-1t2w2d8 {
+  font-size: 0.875rem;
+}
+
+.css-yt9gia {
+  border-radius: 4px;
+  padding: 0.5rem;
+  background-color: #f8f9fa;
+}
+
+.css-1okebmr {
+  padding: 0.5rem;
+}
+
+.css-1u4d2fc {
+  padding-left: 1.5rem;
+}
+
+.css-1w8e4qg {
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.css-1b0fbv3 {
+  padding: 0.5rem 1rem;
+}
